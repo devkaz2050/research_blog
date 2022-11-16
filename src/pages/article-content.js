@@ -1,15 +1,18 @@
 const articles = [
     {
         name: 'learn-react',
-        title: 'The Fastest Way to Learn React',
+        title: 'My Research Project Roadmap',
         content: [
-            `Welcome! Today we're going to be talking about the fastest way to
-            learn React. We'll be discussing some topics such as proin congue
-            ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
-            Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
-            non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
-            eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
-            sodales purus euismod.`,
+            `My Research Project Roadmap will consist of several stages:
+
+            •	Identifying the Research Problem and Overview;
+            •	Conducting Literature Review;
+            •	Setting Research Aims and Questions;
+            •	Providing Research Design and Methodology;
+            •	Data Collection Methods;
+            •	Data Analysis;
+            •	Conclusions and completing research project.
+            `,
             `Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
             Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
             nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
