@@ -100,3 +100,8 @@ nav a:hover {
   border-bottom: 2px solid black;
   padding: 16px;
 }
+
+.photo {
+  height: 400px;
+  width: 700px;
+}
