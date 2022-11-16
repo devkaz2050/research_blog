@@ -7,11 +7,11 @@ const articles = [
 
             (1) Identifying the Research Problem and Overview;
             (2) Conducting Literature Review;
-            (2) Setting Research Aims and Questions;
-            (3) Providing Research Design and Methodology;
-            (4) Data Collection Methods;
-            (5) Data Analysis;
-            (6) Conclusions and completing research project.
+            (3) Setting Research Aims and Questions;
+            (4) Providing Research Design and Methodology;
+            (5) Data Collection Methods;
+            (6) Data Analysis;
+            (7) Conclusions and completing research project.
             `,
             `1 - Identifying the Research Problem and Overview;
 
