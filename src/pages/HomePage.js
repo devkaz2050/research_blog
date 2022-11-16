@@ -2,14 +2,12 @@ import React from 'react';
 
 const HomePage = () => (
     <>
-    <h1>Hello, welcome to my blog!</h1>
+    <h1>Hello, welcome to my DataScience blog!</h1>
     <p>
-        Welcome to my blog! Proin congue
-        ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
-        Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
-        non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
-        eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
-        sodales purus euismod.
+        Welcome to my blog! Welcome to my data science blog!
+
+        As part of the course in Research Project Management, this web page will discuss my approach, how research results will be evaluated,
+         what research methodology and related tools will be used.
     </p>
     <p>
         Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
