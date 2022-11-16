@@ -15,7 +15,7 @@ const articles = [
             `,
             `Identifying the Research Problem and Overview;
 
-            The research topic is dedicated to the utilization of machine learning methods - reinforcement learning to identify anomalies in patterns in time series. Research Problem - Anomaly Detection in Time Series with Machine Learning Algorithms
+            <br> The research topic is dedicated to the utilization of machine learning methods - reinforcement learning to identify anomalies in patterns in time series. Research Problem - Anomaly Detection in Time Series with Machine Learning Algorithms
             `,
             `Etiam nec lectus urna. Sed sodales ultrices dapibus. 
             Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
