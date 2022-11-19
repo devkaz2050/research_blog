@@ -65,7 +65,7 @@ const articles = [
        `
         ]
     }
-
+,
     {
         name: 'project-success',
         title: 'Research Success Measurement Process',
