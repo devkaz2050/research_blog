@@ -3,7 +3,7 @@ const articles = [
         name: 'learn-react',
         title: 'My Research Project Roadmap',
         content: [
-            `My Research Project Roadmap will consist of several stages:
+            `My Research Project Roadmap will consist of several stages (Verschuren et al, 2010):
 
             (1) Identifying the Research Problem and Overview;
             (2) Conducting Literature Review;
@@ -59,6 +59,47 @@ const articles = [
          After the data analysis is completed, it is necessary to provide appropriate conclusions on the achievement of the goals and objectives of the study. In the final part of the study, it is necessary to substantiate why the objectives of the study were achieve
          
         `,
+        `References:
+
+        Verschuren, P., Doorewaard, H. and Mellion, M., 2010. Designing a research project (Vol. 2). The Hague: Eleven International Publishing.
+       `
+        ]
+    }
+
+    {
+        name: 'project-success',
+        title: 'Research Success Measurement Process',
+        content: [
+            `Research Project Success Measurement Process consist of four process groups (Eby, 2021):
+
+            (1) Initiation;
+            (2) Planning;
+            (3) Execution;
+            (4) Closing;
+            `,
+            `1 - Initiation;
+
+            At this stage, the purpose, scope and results of the project are determined and, depending on the results obtained, the level of success of the project is determined.
+            `,
+            `2 - Planning;
+            The planning phase establishes a process to carry out a research project with a detailed research design according to schedule and plan.
+            `,
+            `3 - Exection;
+
+            At this stage, the progress of the planned work and the quality of the project are monitored. Various tools can be used to measure the success of a project at this stage.          
+           `,
+           `4 - Closing;
+
+
+           In the final phase of the project, a general assessment of the results of the project is carried out and the factors and reasons that affect the success of the project are analyzed.
+           
+           .          
+          `,
+          `References;
+
+          Eby, K. (2021). How to Measure Project Success | Smartsheet. [online] www.smartsheet.com. Available at: https://www.smartsheet.com/content/measuring-project-success. Accessed on: November 12, 2022.
+         `
+          
         ]
     }
 ];
