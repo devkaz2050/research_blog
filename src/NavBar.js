@@ -13,6 +13,9 @@ const NavBar = () => (
             <li>
                 <Link to="/articles-list">Articles</Link>
             </li>
+            <li>
+            <Link to="/info">Infographics</Link>
+        </li>
         </ul>
     </nav>
 );

@@ -7,7 +7,7 @@ button {
   padding: 16px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
-  background-color: black;
+  background-color: rgb(83, 30, 190);
   color: white;
   border-radius: 8px;
   cursor: pointer;
@@ -18,7 +18,7 @@ h3, h4 {
 }
 
 nav {
-  border-bottom: 4px solid black;
+  border-bottom: 4px solid rgb(182, 43, 182);
   text-align: center;
   position: fixed;
   top: 0;
@@ -40,13 +40,13 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: black;
+  color: rgb(70, 16, 99);
   font-weight: bold;
   padding: 16px 32px;
 }
 
 nav a:hover {
-  background: black;
+  background: rgb(179, 27, 193);
   color: white;
 }
 
@@ -104,4 +104,8 @@ nav a:hover {
 .photo {
   height: 400px;
   width: 700px;
+}
+.photo2 {
+  height: 230px;
+  width: 800px;
 }

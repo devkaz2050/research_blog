@@ -10,6 +10,7 @@ import ArticlesListPage from './pages/ArticlesListPage';
 import ArticlePage from './pages/ArticlePage';
 import NotFoundPage from './pages/NotFoundPage';
 import NavBar from './NavBar';
+import InfoPage from './pages/Infographic';
 import './App.css';
 
 class App extends Component {
@@ -22,8 +23,10 @@ class App extends Component {
             <Switch>
               <Route path="/" component={HomePage} exact />
               <Route path="/about" component={AboutPage} />
+              <Route path="/info" component={InfoPage} />
               <Route path="/articles-list" component={ArticlesListPage} />
               <Route path="/article/:name" component={ArticlePage} />
+             
               <Route component={NotFoundPage} />
             </Switch>
           </div>
